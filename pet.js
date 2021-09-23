@@ -1,3 +1,4 @@
+
 class Pet{
     constructor(name,happiness_level,hunger_level){
         this.name=name;
@@ -7,3 +8,4 @@ class Pet{
 
     
 }
+
